@@ -1,0 +1,7 @@
+version/
+.venv/
+__pycache__/
+script/
+
+
+*.log
