@@ -10,9 +10,9 @@
 
 1. ### 滑块距离识别基于：[opencv-python](https://github.com/opencv/opencv-python)
 
-2. ### 图像内容识别使用：[ddddocr](https://github.com/sml2h3/ddddocr)
+2. ### 图像内容识别基于：[ddddocr](https://github.com/sml2h3/ddddocr)
 
-3. ### 开发框架：[Flask](https://github.com/pallets/flask)
+3. ### 开发框架使用：[Flask](https://github.com/pallets/flask)
 
 > # 部署
 
