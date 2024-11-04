@@ -1,5 +1,6 @@
-<p align="center"><img src="https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN@master/img/server/readme/KazeCaptchaAPI/002.webp" alt="KazeCryptoAPI"
+<p align="center"><img src="https://testingcf.jsdelivr.net/gh/4444TENSEI/CDN@master/img/server/readme/KazeCaptchaAPI/003.webp" alt="KazeCryptoAPI"
     height="300"/></p>
+
 
 <h1 style="line-height:1;" align="center"><b>KazeCaptchaAPI</b></h1>
 <h3>		还在手搓图像验证码识别、计算滑块验证码的偏移距离吗？或是说在你所要使用的编程语言不方便调用OpenCV来进行验证码识别操作？不如试试这个项目，部署一个在线识别验证码接口到你的个人服务器上，无论你所使用什么工具，只需发起一个简单的POST请求，携带你自动获取到的验证码图片，即可在你的服务器上远程处理，并响应给你所需要的识别结果。</h3>
